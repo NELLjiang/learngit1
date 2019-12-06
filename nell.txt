@@ -6,3 +6,4 @@ creating a new branch is quick
 creating a new branch is quich and simple
 
 merge
+test merge with out no-ff
