@@ -3,4 +3,5 @@ eko
 赵将
 git tracks changes
 creating a new branch is quick
-creating a new branch is quich & simple master
+creating a new branch is quich and simple
+
